@@ -21,7 +21,7 @@ FIRST Download
 8. Create a database with name baetdb
 
 
-6.Run the script http://localhost/mcw
+9.Run the script http://localhost/mcw
 
 
 
